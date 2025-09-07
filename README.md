@@ -2,7 +2,7 @@
   <img src="public/logo.png" alt="KatelyaTV Logo" width="128" />
 
   <h1>KatelyaTV</h1>
-  <h1>katelya-tv-ruby-sigma.vercel.app admin 123</h1>
+  <h1>katelya-tv-ruby-sigma.vercel.app admin 123 https://katelya-tv-ruby-sigma.vercel.app/api/tvbox?format=json </h1>
   <p><strong>跨平台 · 聚合搜索 · 即开即用 · 自托管影视聚合播放器</strong></p>
   <p>基于 <code>Next.js 14</code> · <code>TypeScript</code> · <code>Tailwind CSS</code> · 多源聚合 / 播放记录 / 收藏同步 / 跳过片头片尾 / PWA</p>
   
